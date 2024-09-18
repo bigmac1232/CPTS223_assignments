@@ -1,0 +1,30 @@
+ls,list files and directories.
+cd,Change directory.
+pwd,Print current working directory.
+mkdir,Create a new directory.
+rm,Remove files and directories.
+cp,Copy files and directories.
+mv,Move/rename files and directories.
+rmdir, Removes empty directories.
+ssh, Secure Shell.
+scp, Secure Copy Protocol.
+man, Displays the manual pages for other commands and utilities.
+g++, A GNU C++ compiler that compiles C++ source code into executable files5.
+gcc, GNU Compiler Collection.
+make, A build automation tool that reads a Makefile to determine how to compile and link a program.
+ps, Displays information about the currently running processes.
+kill, Sends a signal to a process, typically to terminate it.
+top, Provides a real-time view of running processes and system resource usage.
+who, Shows who is currently logged into the system.
+chmod, Changes the file mode of a file or directory.
+cat, Concatenates and displays the content of files.
+alias, Creates an alias for a command.
+chown, Changes the ownership of a file or directory.
+df, Reports file system disk space usage.
+grep, Searches for patterns within files.
+echo, Displays a line of text or a variable value.
+exit, Exits the current shell or terminal session.
+clear, Clears the terminal screen.
+find, Searches for files and directories within a directory hierarchy.
+finger, Displays information about system users.
+free, Displays the amount of free and used memory in the system.
